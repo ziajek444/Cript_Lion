@@ -1,0 +1,2 @@
+Szyfrowanie funkcj¹ bez klucza, nazwa³em j¹ Lion. Projekt ostatecznie bêdzie zawiera³ bibliotekê umo¿liwoaj¹c¹ szyfrowanie i odszyfrowywanie tekstu. 
+
