@@ -1,0 +1,6 @@
+D:\Dysk Google ziajkowski.marcin@gmail.com\GITREPOZYTORY\NON_REPO\ZiajkowskiCruptCsharp\ZiajkowskiCriptCsharp\ZiajkowskiCriptCsharp\bin\Debug\ZiajkowskiCriptCsharp.exe.config
+D:\Dysk Google ziajkowski.marcin@gmail.com\GITREPOZYTORY\NON_REPO\ZiajkowskiCruptCsharp\ZiajkowskiCriptCsharp\ZiajkowskiCriptCsharp\obj\Debug\ZiajkowskiCriptCsharp.csprojResolveAssemblyReference.cache
+D:\Dysk Google ziajkowski.marcin@gmail.com\GITREPOZYTORY\NON_REPO\ZiajkowskiCruptCsharp\ZiajkowskiCriptCsharp\ZiajkowskiCriptCsharp\bin\Debug\ZiajkowskiCriptCsharp.exe
+D:\Dysk Google ziajkowski.marcin@gmail.com\GITREPOZYTORY\NON_REPO\ZiajkowskiCruptCsharp\ZiajkowskiCriptCsharp\ZiajkowskiCriptCsharp\bin\Debug\ZiajkowskiCriptCsharp.pdb
+D:\Dysk Google ziajkowski.marcin@gmail.com\GITREPOZYTORY\NON_REPO\ZiajkowskiCruptCsharp\ZiajkowskiCriptCsharp\ZiajkowskiCriptCsharp\obj\Debug\ZiajkowskiCriptCsharp.exe
+D:\Dysk Google ziajkowski.marcin@gmail.com\GITREPOZYTORY\NON_REPO\ZiajkowskiCruptCsharp\ZiajkowskiCriptCsharp\ZiajkowskiCriptCsharp\obj\Debug\ZiajkowskiCriptCsharp.pdb
